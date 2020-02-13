@@ -1,0 +1,52 @@
+.flag
+{margin:10px 0px 0px 0px;
+float:right;}
+.emblem
+{margin-left:50px;}
+body
+{width:1100px;
+margin:auto;
+background-size:50%;
+font-family:"포천 오성과 한음 Regular";}
+#head
+{width:1100px;}
+#im
+{width:1100px;
+margin:50px 0px 0px 0px;}
+.KT
+{width:620px;
+height:250px;
+margin:10px 0px 50px 0px;
+border:1px solid black;}
+.GT
+{width:620px;
+height:250px;
+margin:50px 0px 50px 0px;
+border:1px solid black;}
+.left
+{float:left;}
+.ST
+{width:400px;
+height:550px;
+float:right;
+border:3px double black;
+margin:10px 0px 0px 50px;
+text-align:center;}
+.ST li
+{list-style:none;
+padding:9px 10px;
+text-align:left;}
+#menu
+{list-style-type:none;
+width:1080px; border:hidden 1px #aaaaaa;
+background-color:#810000;
+padding:10px; text-align:center;}
+#menu li
+{display:inline;
+margin-right:70px}	
+#menu li a
+{color:#ffffff;
+text-decoration:none;}	
+#menu li a:hover
+{color:olive;
+text-decoration:none;}	

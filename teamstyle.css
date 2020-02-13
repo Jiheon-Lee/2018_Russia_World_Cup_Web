@@ -1,0 +1,74 @@
+.teamname
+{border:1px solid black;
+width:50px;
+padding:5px 20px;
+text-align:center;
+margin:0 35px;
+border-bottom:#f2f0f0;
+background-color:#810000;
+color:white;}
+ul 
+{list-style:none;
+border:1px solid black;
+width:140px;
+text-align:center;
+line-height:400%;
+margin:0;
+padding:20px 0px 20px 0;
+background-color:#f0f0f0;
+position:relative;
+//*--*//
+	transition:0.5s;
+	-webkit-transition:0.5s;
+	-moz-transition:1s;
+	-o-transition:1s;
+	-ms-transition:1s;}
+	
+ul:hover
+{	background-color:#f5e4cb;
+	border:10px solid #f5e4cb;	}
+.a, .f
+{float:left;
+margin:0px 5px 0px 0px;
+}
+
+
+body{background-color:#f2f0f0;	
+	color:#444444;
+    font-size:12pt;
+	font-family:"포천 오성과 한음 Regular",돋움;
+	width:1313px;
+	margin:0px auto;}	
+#head
+
+{width:1310px;
+height:150px;
+background-image:url(image/cats-crop.jpg);
+background-repeat:no-repeat;}
+
+#dday{width:300px; height:110px;
+	  float:right;
+	  margin:20px 10px 10px 10px;
+	  font-family:"포천 오성과 한음 Regular",돋움;  text-shadow:1px 1px 5px white; color:#f5e4cb; font-size:20px;}
+#team
+{	width:1450px;
+	margin: 50px 10px 0px 10px;}
+#FT li
+{display:block;}
+#FT li a
+{color:#444444; text-decoration:none;}
+#FT li a:hover
+{color:white;
+text-decoration:none;}
+.clear{clear:both;}
+.copy{width:1310px;
+	  padding:15px;
+	  margin-top:15px;
+	  text-align:center;
+	  float:left;}
+
+
+
+
+
+
